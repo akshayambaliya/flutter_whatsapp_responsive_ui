@@ -99,7 +99,7 @@ class _WebHomeScreenState extends State<WebHomeScreen> {
                                         <PopupMenuEntry<String>>[
                                       const PopupMenuItem<String>(
                                         value: '1',
-                                        child: Text('Working a lot harder'),
+                                        child: Text('Menu item 1'),
                                       ),
                                     ],
                                   )
@@ -189,7 +189,7 @@ class _WebHomeScreenState extends State<WebHomeScreen> {
                                         <PopupMenuEntry<String>>[
                                       const PopupMenuItem<String>(
                                         value: '1',
-                                        child: Text('Working a lot harder'),
+                                        child: Text('Menu item 1'),
                                       ),
                                     ],
                                   )
